@@ -1,0 +1,18 @@
+{
+    "tickets": [
+        {
+            "easy": "Funksional ketma-ketliklarda hadma-had limitga o’tish va unga oid misollar",
+            "medium": "Sirtning yuzi va uni ikki karrali integral yordamida hisoblash",
+            "murakkab1": "Ikki karrali integralni hisoblang:",
+            "murakkab2": "Quyidagi darajali qatorning yaqinlashish radiusi, yaqinlashish intervali hamda yaqinlashish sohasini toping:",
+            "hard": "Quyida berilgan  funksiyaning (D) sohada Darbu yig’indilarini tuzing:"
+        },
+        {
+            "easy": "Ko’p o’zgaruvchili funksiyani shartli ekstremumga tekshirish",
+            "medium": "Ko’p o’zgaruvchili funksiya ekstremumining yetarli sharti va unga oid misollar",
+            "murakkab1": "Ketma – ketlikning limitini toping:",
+            "murakkab2": "Quyidagi ikki o‘zgaruvchili funksiyalarni shartli ekstremumga tekshiring:",
+            "hard": "Ushbu\t\nfunksiya  to’plamda berilgan bo’lsa,  da  funksiyaning limit funksiyasini toping."
+        }
+    ]
+}
